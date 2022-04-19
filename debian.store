@@ -1,1 +1,1 @@
-{"base": "3f15afcf", "parent": "debian/rolling/rtabmap", "previous": "b8d6a783", "trim": "", "trimbase": ""}
+{"base": "40bc0305", "parent": "debian/humble/rtabmap", "previous": "38f93254", "trim": "", "trimbase": ""}
